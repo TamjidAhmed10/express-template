@@ -1,0 +1,4 @@
+first download the folder and delete the '.git' .
+then use 'pnpm init / yarn init / npm init' command to initialization of the app .
+then use command 'git init'
+  
