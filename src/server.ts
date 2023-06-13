@@ -27,7 +27,6 @@ app.get('/', (req: Request, res: Response) => {
   res.send('Hello, Express!');
 });
 
-app.route()
 
 // Start the server
 app.listen(port, () => {
