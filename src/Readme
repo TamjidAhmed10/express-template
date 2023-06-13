@@ -1,0 +1,2 @@
+`server.ts`
+The entry point of the application where you set up the Express server, configure middleware, and define routes.

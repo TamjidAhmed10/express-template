@@ -1,0 +1,2 @@
+`middlewares`
+Holds custom middleware functions that can be used to intercept and modify incoming requests or outgoing responses. Examples include authentication middleware, error handling middleware, etc.

@@ -1,0 +1,2 @@
+`utils` 
+Houses utility functions that are used across different parts of the application, such as helper functions for data validation, formatting, or common operations.

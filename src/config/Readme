@@ -1,0 +1,2 @@
+`database` 
+Contains files related to database connection and setup. This folder can include database connection initialization, migration scripts, and other related tasks.

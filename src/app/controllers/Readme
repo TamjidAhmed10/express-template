@@ -1,0 +1,2 @@
+`controllers` Folder
+Contains modules responsible for handling HTTP requests, parsing inputs, and returning responses. These modules should primarily focus on request handling and delegate the business logic to the corresponding services.

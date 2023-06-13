@@ -2,7 +2,7 @@ import express, { Request, Response, NextFunction } from "express";
 import helmet from "helmet";
 import compression from "compression";
 import morgan from "morgan";
-import errorHandler from './middlewares/errorHandler'; // Import the error handling middleware
+import errorHandler from './app/middlewares/errorHandler'; // Import the error handling middleware
 import dotenv from 'dotenv'; // Import the dotenv package
 import connectDB from "./config/database";
 

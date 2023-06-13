@@ -1,0 +1,2 @@
+`services`
+Contains the business logic of the application. Services encapsulate complex operations and orchestrate interactions between controllers and models. Each service should be responsible for a specific domain of your application.

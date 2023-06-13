@@ -1,0 +1,2 @@
+`models` 
+Houses the database models and schemas. You can use an Object-Document Mapping (ODM) library like Mongoose to define and interact with MongoDB models.

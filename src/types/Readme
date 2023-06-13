@@ -1,0 +1,2 @@
+`types`
+Contains custom type definitions used throughout the application, helping to maintain strong typing in TypeScript.

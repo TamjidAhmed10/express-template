@@ -1,0 +1,2 @@
+`routes`
+Contains modules responsible for defining API routes. These modules should map endpoints to the appropriate controller methods and apply any necessary middleware.
